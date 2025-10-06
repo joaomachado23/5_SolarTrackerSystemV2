@@ -55,9 +55,11 @@ Funcionalidades principais implementadas:
 Neste repositório, é possível encontrar:
 
 1. Um PDF com toda a documentação do projeto: design, simulação e conceção.
-2. Um vídeo que mostra o resultado geral do projeto.
-3. Um vídeo que demonstra o funcionamento do conversor Boost com MPPT.
-4. Um vídeo que mostra o STS a orientar-se em direção à maior luminosidade e a converter energia.
+2. Dois vídeos que mostram o resultado geral do projeto.
+3. Um PPT com a apresentação do projeto.
+4. Um ficheiro ZIP que contém o projeto em C do código utilizado para a STM32.
+5. Um PDF com anexos relativos à configuração da STM32.
+6. Uma pasta com fotos a apresentar elementos constituintes do protótipo.
 
 Este trabalho foi fundamental para consolidar conhecimentos em várias áreas da eletrónica e automação, unindo analógico e digital. Desafiante, mas extremamente gratificante.
 
